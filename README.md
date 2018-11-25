@@ -10,6 +10,8 @@ The programm can get its information via REST API inf the following code format:
 
 ## Database synchronization
 
+![alt text](https://github.com/julian-martin/transkoll-mobile-app/blob/master/doc/database-sync.png "Sync Feature for information")
+
 By clicking the SYNC button the information will be downloaded in a local SQLite database on the device.
 
 ## Export program
