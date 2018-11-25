@@ -14,13 +14,10 @@ VR applications are getting more and more into our lives. This app is an example
 
 ## Example Target Images
 
-<object data="https://github.com/julian-martin/transkoll-mobile-app/blob/master/doc/koelln_product_images.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="https://github.com/julian-martin/transkoll-mobile-app/blob/master/doc/koelln_product_images.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://yoursite.com/the.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
+A pdf, showing three different examples can be found  
 
-The programm can get its information via REST API inf the following code format:
+[here](https://github.com/julian-martin/transkoll-mobile-app/blob/master/doc/koelln_product_images.pdf "Navigate to example tracking images")
+
 
 ## Freezing current camera state
 
