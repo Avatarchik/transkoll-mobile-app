@@ -12,7 +12,13 @@ VR applications are getting more and more into our lives. This app is an example
 
 ![alt text](https://github.com/julian-martin/transkoll-mobile-app/blob/master/doc/info.png "Example of tracking a product and displaying additional information")
 
-## Transkoll Web API
+## Example Target Images
+
+<object data="https://github.com/julian-martin/transkoll-mobile-app/blob/master/doc/koelln_product_images.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="https://github.com/julian-martin/transkoll-mobile-app/blob/master/doc/koelln_product_images.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://yoursite.com/the.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
 
 The programm can get its information via REST API inf the following code format:
 
