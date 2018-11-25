@@ -14,9 +14,7 @@ VR applications are getting more and more into our lives. This app is an example
 
 ## Example Target Images
 
-A pdf, showing three different examples can be found  
-
-[here](https://github.com/julian-martin/transkoll-mobile-app/blob/master/doc/koelln_product_images.pdf "Navigate to example tracking images")
+A pdf, showing three different examples can be found [here.](https://github.com/julian-martin/transkoll-mobile-app/blob/master/doc/koelln_product_images.pdf "Navigate to example tracking images")
 
 
 ## Freezing current camera state
