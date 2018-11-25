@@ -27,3 +27,10 @@ By clicking the SYNC button the information will be downloaded in a local SQLite
 
 ## Export program
 Program can be exported on different devices for different operating systems. Currently Android and Windows are support out of the box.
+
+## Links
+
+[Transkoll Preview](http://preview.transkolldb.wigital.de/webservice/?key=7PS0r8IHhFNELSlj1xQiT1XXKHhfiV0G&function=product "Products")
+
+[Transkoll Preview](http://preview.transkolldb.wigital.de/webservice/?key=7PS0r8IHhFNELSlj1xQiT1XXKHhfiV0G&function=una "UNA")
+
