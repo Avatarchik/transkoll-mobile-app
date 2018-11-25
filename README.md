@@ -40,6 +40,40 @@ Program can be exported on different devices for different operating systems. Cu
 
 ## JSON Format Examples
 
+
+JSON String for products
+
+```javascript
+{  
+   "status":"ok",
+   "products":[  
+      {  
+         "Produkt_ID":"1-Produkt_1",
+         "Name":"Produkt 1",
+         "Detailbeschreibung":null,
+         "Produktnummer":"1",
+         "Unternehmen":"wigital GmbH"
+      },
+      {  
+         "Produkt_ID":"1-K\u00f6lln_M\u00fcsli_Knusper_Honig-Nuss",
+         "Name":"K\u00f6lln M\u00fcsli Knusper Honig-Nuss",
+         "Detailbeschreibung":"leckeres honig nuss m\u00fcsli",
+         "Produktnummer":"1",
+         "Unternehmen":"Uni Kiel"
+      },
+      {  
+         "Produkt_ID":"1-K\u00f6lln_M\u00fcsli_Schoko",
+         "Name":"K\u00f6lln M\u00fcsli Schoko",
+         "Detailbeschreibung":null,
+         "Produktnummer":"1",
+         "Unternehmen":"Uni Kiel"
+      }
+   ]
+}
+```
+
+JSON String for UNA (Unternehmen Nachhaltigkeitsaktivitäten)
+
 ```javascript
 {  
    "status":"ok",
