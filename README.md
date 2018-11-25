@@ -4,8 +4,11 @@ VR applications are getting more and more into our lives. This app is an example
 
 ## Requirements
 
-Unity 2018.2.17 or higher with integraded Vuforia SDK.
++ Unity 2018.2.17 or higher with integraded Vuforia SDK.
++ Vuforia Account with License and Key and a given product database.
++ Android SDK for android build support (optional)
 
+## General concept
 
 ![alt text](https://github.com/julian-martin/transkoll-mobile-app/blob/master/doc/info.png "Example of tracking a product and displaying additional information")
 
