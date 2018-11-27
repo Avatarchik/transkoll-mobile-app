@@ -4,7 +4,7 @@ VR applications are getting more and more into our lives. This app is an example
 
 ## Requirements
 
-+ Unity 2018.2.17 or higher with integraded Vuforia SDK.
++ Unity 2018.2.17 or higher with integrated Vuforia SDK.
 + Vuforia Account with License and Key and a given product database.
 + Android SDK for android build support (optional)
 
@@ -21,7 +21,7 @@ A pdf, showing three different examples can be found [here.](https://github.com/
 
 ![alt text](https://github.com/julian-martin/transkoll-mobile-app/blob/master/doc/freeze.jpg "Freeze Feature for information")
 
-On the lower left the user can freeze the current camera state. Thus the user can read the displayed text relaxed. 
+On the lower left the user can freeze the current camera state. Thus the user can read the displayed text withour holding the phone straight on the product. 
 
 ## Database synchronization
 
